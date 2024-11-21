@@ -1,0 +1,54 @@
+.container{
+    margin: auto;
+    width: 30%;
+    box-shadow: 2px 4px 10px rgb(156, 152, 152);
+}  
+.container > h1{
+    color: greenyellow;
+}
+#Principal-input {
+    display: block;
+    width: 20rem;
+    margin-bottom: 10px; 
+    margin-top: 5px;   
+
+}
+#rate-input{
+    display: block;
+    background-color: blue;
+    width: 20rem;
+    accent-color: blue;
+
+}
+
+
+#period{
+    display: block;
+    width: 20rem;
+    text-align: center;
+    margin-bottom: 10px; 
+    margin-top: 5px;   
+
+}
+#display-interest{
+    color: greenyellow; 
+
+}
+#result{
+    display: block;
+}
+#cal-btn{
+    width: 20rem;
+    background: green;
+    color: white; 
+
+}
+#ru{
+    width: 20rem;
+    background: greenyellow;
+    text-align: center;
+    margin-bottom: 10px; 
+    margin-top: 5px;  
+    color: white; 
+}
+
