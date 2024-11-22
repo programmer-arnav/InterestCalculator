@@ -59,7 +59,9 @@
         width: auto;
     }
     .container{
-        padding: 10px;
+        padding: auto;
+        margin: auto;
+        width: auto;
     }
 }
 
